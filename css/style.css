@@ -1,0 +1,115 @@
+.logo {
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 45px;
+    line-height: 67px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.135em;
+    text-transform: uppercase;
+
+}
+
+.minimenu{
+    background-color: rgb(184, 184, 184);
+}
+
+.divmenu a {
+    font-family: 'Poppins', sans-serif;
+    font-style: thin !important;
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    font-weight: unset;
+    font-size: 35px;
+    padding: 0 30px !important;
+    border-radius: 30px;
+
+}
+
+.divmenu a:hover {
+    background-color: #585153;
+}
+
+.divmenu a:active{
+    background-color:rgba(90, 90, 90, 0.4);
+}
+
+.divmenu {
+    justify-content: center;
+    text-align: center !important;
+}
+
+.linkmenu {
+    color: white !important;
+}
+
+/* SITE ABAIXO */
+
+.firstcontainer {
+    min-width: 100%;
+}
+
+.containertitle {
+    font-family: Saira Semi Condensed;
+    font-weight: 300;
+    font-size: 70px;
+}
+.containertitle b{
+    font-weight: 700;
+}
+
+.buttonhover {
+    transition: 0.2s;
+}
+
+.buttonhover:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+
+/* SECOND CONTAINER */
+
+.secondcontainertitle{
+    font-family: Roboto;
+    letter-spacing: 0.25em;
+    font-size: 40px;
+}
+
+.col-sm img{
+    margin-bottom: -2px!important;
+}
+
+.prices{
+    text-decoration: none;
+}
+.options{
+    text-align: center;
+    background-color: black;
+    color:white;
+    text-decoration: none;
+    padding: 20px;
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 30px;
+    letter-spacing: 0.25em;
+}
+
+
+
+.reqtitle{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.reqtype{
+    font-weight: bold;
+    margin: 0;
+
+}
+
+.reqneed{
+
+}
